@@ -1,0 +1,162 @@
+body{ background-color: rgb(235, 201, 227);
+ /*UPDATE: add a background color or image here*/
+}
+
+#titleText{
+  /*UPDATE: change the text size, color, font (optional) here*/
+ 
+
+  /*UPDATE: center align the text here*/
+  
+  /*font from Google Fonts: https://fonts.google.com/specimen/Open+Sans?preview.text_type=custom*/
+ 
+}
+
+
+ul li a:hover,
+ul li a.quizharry
+ {
+  background-color: lightgoldenrodyellow;
+  border-radius: 50px;
+  
+}
+
+.topImage{
+  /*UPDATE: change the image size here */
+ width: 600px;
+ border: dotted 10px rgb(255, 251, 23);
+    background-color: rgb(157, 166, 243)}
+  
+
+/*UPDATE: center the image here*/
+ 
+
+img {
+    width: 300px;
+    padding: 3px;
+    margin-top: 0em;}
+
+
+h1 { 
+  background-color:  rgb(243, 157, 157);
+  border: rgb(255, 251, 23) 20px;
+    border-style: dotted;
+  color: rgb(13, 37, 13);
+  width: 1300px;
+  padding: 7px;
+  font-size: 70px;
+  font-family: 'Pacifico', cursive;
+  text-shadow: rgba(197, 30, 30, 0.445) 2px 2px;}
+
+p {
+  background-color: rgba(255, 255, 255, 0.623);
+  color: rgb(116, 50, 50);
+  padding: 8px;
+  width: 900px;
+  font-size: 30px;
+  font-family: 'Anton', sans-serif;
+  text-shadow: rgba(199, 165, 165, 0.856) 3px 1px;
+}
+
+  
+  
+div {
+  font-size: 20px;
+  width: 900px;}
+
+.left{
+  float: left;
+
+}
+
+.right {
+  float: right;
+
+}
+
+.oneQ {background-color:  rgba(255, 255, 255, 0.623);
+  border: rgb(116, 50, 50) 6px;
+    border-style: dotted;
+  color: rgb(13, 37, 13);
+  width: 800px;
+  padding: 6px;
+  font-size: 30px;
+  font-family: 'Pacifico', cursive;
+  text-shadow: rgba(211, 63, 83, 0.445) 2px 2px;}
+
+.twoQ {background-color:  rgba(255, 255, 255, 0.623);
+  border: rgb(116, 50, 50) 6px;
+    border-style: dotted;
+  color: rgb(13, 37, 13);
+  width: 800px;
+  padding: 6px;
+  font-size: 30px;
+  font-family: 'Pacifico', cursive;
+  text-shadow: rgba(211, 63, 83, 0.445) 2px 2px;}
+
+.threeQ {background-color:  rgba(255, 255, 255, 0.623);
+  border: rgb(116, 50, 50) 6px;
+    border-style: dotted;
+  color: rgb(13, 37, 13);
+  width: 800px;
+  padding: 6px;
+  font-size: 30px;
+  font-family: 'Pacifico', cursive;
+  text-shadow: rgba(211, 63, 83, 0.445) 2px 2px;}
+
+button { 
+  font-size: 19px;
+  font-family: 'Indie Flower', cursive;
+  border: darkred dotted 5px;
+  cursor: pointer;
+  padding:.7em;
+  background-color: rgb(255, 255, 255);
+
+
+}
+
+
+button:hover {
+  transform: scale(1.3);
+  transition: transform 330ms ease-out;
+}
+
+
+h2 { 
+  background-color: rgba(255, 255, 255, 0.623);
+  font-size: 50px;
+
+}
+
+.question {
+  display: flex;
+  margin-top: 2em;
+  justify-content: center;
+  border: none;
+}
+
+
+ul {
+    list-style-type: none;
+    background-color: rgb(253, 248, 242);
+    color: black;
+    overflow: hidden;
+    padding: 1em;
+    margin: 0px;
+    width: 400px;
+      font-size: 20px;
+      font-family: 'Times New Roman';
+    border: rgb(189, 101, 101);
+      border-style: solid;
+    }
+
+
+li {
+    display: inline;}
+
+li a { 
+  text-decoration: none;
+  color: black;
+  font-size: 1.3em;
+  padding: 1em;
+}
